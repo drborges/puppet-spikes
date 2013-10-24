@@ -1,0 +1,10 @@
+GIT
+  remote: https://github.com/puppetlabs/puppetlabs-stdlib
+  ref: master
+  sha: d60d872c1ab676298824dad863237fa390e1ddd6
+  specs:
+    stdlib (4.1.0)
+
+DEPENDENCIES
+  stdlib (>= 0)
+
